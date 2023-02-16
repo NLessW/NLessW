@@ -11,7 +11,7 @@
 > 📫 You can reach me at qkqkhih@naver.com or qkqkhih55@gmail.com<br>
 <br>
 <br>
-<br>
+
 
 ## Programming Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NLessW&show_icons=true&theme=radical)
@@ -19,7 +19,7 @@
 
 <br>
 <br>
-<br>
+
 
 ## Programming Skills
 <p align='left'>
