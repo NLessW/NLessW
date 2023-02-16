@@ -56,7 +56,8 @@
 </p>
 
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/-qkqkhih55@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qkqkhih55@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-qkqkhih55@gmail.com-c14438?style=flat&logo=Gmail&logoColor="white")](mailto:qkqkhih55@gmail.com "Connect via Email")
+[![Instagram Badge](https://img.shields.io/badge/-@pkwhy_00-E4405F?style=flat&logo=Instagram&logoColor="white")](https://www.instagram.com/pkwhy_00 "Contact on Instagram")
 ## Projects
 
 Here are a few projects that I have worked on recently:
