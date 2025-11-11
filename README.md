@@ -40,16 +40,16 @@
 
 ## Program IDE
 <p align='left'>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=Spyder IDE&logoColor="white">
-  <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor="white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white"/>
 </p>
 
 ## Operation Systems
 <p align='left'>
-  <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&logo=Windows 11&logoColor="white">
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
