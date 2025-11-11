@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white"/>
 </p>
 
+
+
 ## Operation Systems
 <p align='left'>
   <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white"/>
@@ -58,12 +60,4 @@
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-qkqkhih55@gmail.com-c14438?style=flat&logo=Gmail&logoColor="white")](mailto:qkqkhih55@gmail.com "Connect via Email")
 [![Instagram Badge](https://img.shields.io/badge/-@pkwhy_00-fa7e1e?style=flat&logo=Instagram&logoColor="white")](https://www.instagram.com/pkwhy_00 "Contact on Instagram")
-## Projects
-
-Here are a few projects that I have worked on recently:
-
-- [Project 1](https://github.com/NLessW/Opencv_Object_detect_platform) -Object Dectected webpage.
-- [Project 2](https://github.com/NLessW/KakaoTalkBot) - Kakaotalk Messanger chat bot
-
-
 
